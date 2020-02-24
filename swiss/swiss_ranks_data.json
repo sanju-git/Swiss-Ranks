@@ -1,0 +1,290 @@
+[
+	{
+		"Part Number": "6-604-SR004-40",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "OVERHANGING ACTUATOR BRACKET",
+		"Created By": "Engineeer 1",
+		"Approve or Reject By": "Approver 1"
+	},
+	{
+		"Part Number": "6-604-SR004-41",
+		"Status": "Under Query",
+		"Mat Category": "Mechanical",
+		"PartName": "OVERHANGING ACTUATOR DATUM",
+		"Created By": "Engineeer 2",
+		"Approve or Reject By": "Approver 2"
+	},
+	{
+		"Part Number": "6-604-SR004-42",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "SENSOR SLIDER BLOCK",
+		"Created By": "Engineeer 1",
+		"Approve or Reject By": "Approver 4"
+	},
+	{
+		"Part Number": "6-601-SR002-65",
+		"Status": "In Progress",
+		"Mat Category": "Mechanical",
+		"PartName": "Y IGUS BRACKET",
+		"Created By": "Engineeer 3",
+		"Approve or Reject By": "Approver 2"
+	},
+	{
+		"Part Number": "4-438-SR001-57",
+		"Status": "Approved",
+		"Mat Category": "Electronics",
+		"PartName": "Displacement measurement sensors OD Mini / OD Mini Pro",
+		"Created By": "Engineeer 2",
+		"Approve or Reject By": "Approver 3"
+	},
+	{
+		"Part Number": "6-610-SR004-26",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "Stainless Steel Dowel Pin",
+		"Created By": "Engineeer 5",
+		"Approve or Reject By": "Approver 1"
+	},
+	{
+		"Part Number": "6-610-SR003-16",
+		"Status": "In Progress",
+		"Mat Category": "Mechanical",
+		"PartName": "316 Stainless Steel Split Lock Washer",
+		"Created By": "Engineeer 2",
+		"Approve or Reject By": "Approver 2"
+	},
+	{
+		"Part Number": "6-610-SR002-97",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "M4 LOCK WASHER, SST",
+		"Created By": "Engineeer 1",
+		"Approve or Reject By": "Approver 3"
+	},
+	{
+		"Part Number": "6-610-SR002-12",
+		"Status": "Draft",
+		"Mat Category": "Mechanical",
+		"PartName": "316 Split Lock Washer",
+		"Created By": "Engineeer 4",
+		"Approve or Reject By": "Approver 4"
+	},
+	{
+		"Part Number": "6-610-SR003-84",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "FLAT WASHER, METRIC, M5",
+		"Created By": "Engineeer 5",
+		"Approve or Reject By": "Approver 5"
+	},
+	{
+		"Part Number": "6-610-SR003-96",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "Stainless Steel Washerfor",
+		"Created By": "Engineeer 3",
+		"Approve or Reject By": "Approver 1"
+	},
+	{
+		"Part Number": "6-610-SR004-67",
+		"Status": "Draft",
+		"Mat Category": "Mechanical",
+		"PartName": "Stainless Steel Washer for M3",
+		"Created By": "Engineeer 4",
+		"Approve or Reject By": "Approver 2"
+	},
+	{
+		"Part Number": "6-610-SR004-20",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "Stainless Steel Socket Head Screw",
+		"Created By": "Engineeer 2",
+		"Approve or Reject By": "Approver 1"
+	},
+	{
+		"Part Number": "6-610-SR007-20",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "SOCKET HEAD SCREW, M5 X 0.8 MM THREAD, 18 MM LONG",
+		"Created By": "Engineeer 2",
+		"Approve or Reject By": "Approver 3"
+	},
+	{
+		"Part Number": "6-610-SR007-03",
+		"Status": "Under Query",
+		"Mat Category": "Mechanical",
+		"PartName": "Super-Corrosion-Resistant 316 Stainless Steel Socket Head Screw, M4 x 0.7 mm Thread, 35 mm Long",
+		"Created By": "Engineeer 5",
+		"Approve or Reject By": "Approver 4"
+	},
+	{
+		"Part Number": "6-610-SR007-04",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "316 Stainless Steel Button Head Hex Drive Screws, M4 x 0.7mm Thread, 10mm Long",
+		"Created By": "Engineeer 1",
+		"Approve or Reject By": "Approver 5"
+	},
+	{
+		"Part Number": "3-306-SR001-84",
+		"Status": "Approved",
+		"Mat Category": "Electrical",
+		"PartName": "MANIFOLD EX600 WITH 9 STATION I/O 10 VALVE STATIONS 5/32\" ONE TOUCH FITTING",
+		"Created By": "Engineeer 3",
+		"Approve or Reject By": "Approver 4"
+	},
+	{
+		"Part Number": "3-306-SR001-85",
+		"Status": "Approved",
+		"Mat Category": "Electrical",
+		"PartName": "SI Unit",
+		"Created By": "Engineeer 4",
+		"Approve or Reject By": "Approver 5"
+	},
+	{
+		"Part Number": "3-303-SR001-48",
+		"Status": "Approved",
+		"Mat Category": "Electrical",
+		"PartName": "COMPACT ELECTRO PNEUMATIC REGULATOR 0.001 - 0.5 MPA 5/32\" ONE TOUCH",
+		"Created By": "Engineeer 1",
+		"Approve or Reject By": "Approver 3"
+	},
+	{
+		"Part Number": "3-314-SR001-08",
+		"Status": "Approved",
+		"Mat Category": "Electrical",
+		"PartName": "VALVE 1/2\"FACE SEAL FEMALE 1/4 TURN GAS SHUT OFF LOTO",
+		"Created By": "Engineeer 2",
+		"Approve or Reject By": "Approver 5"
+	},
+	{
+		"Part Number": "3-306-SR001-86",
+		"Status": "In Progress",
+		"Mat Category": "Electrical",
+		"PartName": "EX600, Endplate",
+		"Created By": "Engineeer 4",
+		"Approve or Reject By": "Approver 2"
+	},
+	{
+		"Part Number": "3-306-SR001-87",
+		"Status": "In Progress",
+		"Mat Category": "Mechanical",
+		"PartName": "Communication Cable for Ethernet Fieldbus 0.5M With Connector on Both Sides",
+		"Created By": "Engineeer 5",
+		"Approve or Reject By": "Approver 3"
+	},
+	{
+		"Part Number": "3-306-SR001-88",
+		"Status": "In Progress",
+		"Mat Category": "Mechanical",
+		"PartName": "Communication Cable for Ethernet Fieldbus 1M With Connector on Both Sides",
+		"Created By": "Engineeer 1",
+		"Approve or Reject By": "Approver 1"
+	},
+	{
+		"Part Number": "3-306-SR001-89",
+		"Status": "In Progress",
+		"Mat Category": "Mechanical",
+		"PartName": "EX600, Power Supply Cable, M12 Connector (5-pin B-coded)Right Angle 6M",
+		"Created By": "Engineeer 4",
+		"Approve or Reject By": "Approver 5"
+	},
+	{
+		"Part Number": "3-306-SR001-90",
+		"Status": "In Progress",
+		"Mat Category": "Mechanical",
+		"PartName": "EX600, Power Supply Cable, M12 Connector (5-pin B-coded) Right Angle 2M",
+		"Created By": "Engineeer 4",
+		"Approve or Reject By": "Approver 1"
+	},
+	{
+		"Part Number": "3-306-SR001-91",
+		"Status": "Draft",
+		"Mat Category": "Mechanical",
+		"PartName": "Communication Cable for Ethernet Fieldbus 5M",
+		"Created By": "Engineeer 1",
+		"Approve or Reject By": "Approver 3"
+	},
+	{
+		"Part Number": "3-306-SR001-92",
+		"Status": "In Progress",
+		"Mat Category": "Mechanical",
+		"PartName": "Communication Cable for Ethernet Fieldbus 5M",
+		"Created By": "Engineeer 2",
+		"Approve or Reject By": "Approver 5"
+	},
+	{
+		"Part Number": "3-306-SR001-93",
+		"Status": "Draft",
+		"Mat Category": "Mechanical",
+		"PartName": "Communication Cable for Ethernet Fieldbus 5M",
+		"Created By": "Engineeer 1",
+		"Approve or Reject By": "Approver 3"
+	},
+	{
+		"Part Number": "3-305-SR005-09",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "FITTING SS316 UNION TEE 1/2\" TUBE",
+		"Created By": "Engineeer 4",
+		"Approve or Reject By": "Approver 2"
+	},
+	{
+		"Part Number": "3-305-SR005-10",
+		"Status": "In Progress",
+		"Mat Category": "Mechanical",
+		"PartName": "FITTING SS316 UNION TEE 3/8\" TUBE",
+		"Created By": "Engineeer 1",
+		"Approve or Reject By": "Approver 3"
+	},
+	{
+		"Part Number": "3-305-SR005-11",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "insert fitting; ss; union elbow; 1/2\" OD x 3/8\" ID; 3/8\" thread male;",
+		"Created By": "Engineeer 3",
+		"Approve or Reject By": "Approver 5"
+	},
+	{
+		"Part Number": "3-305-SR005-12",
+		"Status": "Draft",
+		"Mat Category": "Mechanical",
+		"PartName": "one-touch; union tee; 5/32\" x 5/32\" x 5/32\" tubing OD; resin body;",
+		"Created By": "Engineeer 5",
+		"Approve or Reject By": "Approver 4"
+	},
+	{
+		"Part Number": "6-604-SR001-02",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "BLADE PAD",
+		"Created By": "Engineeer 1",
+		"Approve or Reject By": "Approver 4"
+	},
+	{
+		"Part Number": "6-601-SR001-02",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "REFLECTOR PLATE",
+		"Created By": "Engineeer 5",
+		"Approve or Reject By": "Approver 1"
+	},
+	{
+		"Part Number": "6-604-SR001-03",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "BOTTOM BRACKET",
+		"Created By": "Engineeer 2",
+		"Approve or Reject By": "Approver 5"
+	},
+	{
+		"Part Number": "6-603-SR001-01",
+		"Status": "Approved",
+		"Mat Category": "Mechanical",
+		"PartName": "GAS LINE 1, VOIDS FREE CHAMBER",
+		"Created By": "Engineeer 4",
+		"Approve or Reject By": "Approver 2"
+	}
+]
